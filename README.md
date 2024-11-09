@@ -26,6 +26,8 @@ Figure 1 Eclipse Workspace
 
 ____
 
+Right click on asdf2 folder at top of folder tree in Package Explorer.
+
 ## References
 
 [ChatGPT](https://chatgpt.com/)
