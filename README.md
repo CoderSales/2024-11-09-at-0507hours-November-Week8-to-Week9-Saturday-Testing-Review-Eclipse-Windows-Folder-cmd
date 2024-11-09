@@ -50,5 +50,9 @@ ____
 
 [how to specify the dimensions of a README markdown image - Google Search](https://www.google.com/search?q=how+to+specify+the+dimensions+of+a+README+markdown+image&oq=how+to+specify+the+dimensions+of+a+README+markdown+image&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRiPAtIBCTI1MTAyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
 
+Markdown itself doesn't offer a native way to resize images, but you can leverage HTML tags within your Markdown file to achieve this. In this example, the width attribute is set to 200 pixels. You can adjust the width to suit your needs, and the height will scale accordingly to maintain the aspect ratio.
+
+[4 Ways to Add Images to GitHub README + 1 Bonus Method | Cloudinary](https://cloudinary.com/guides/web-performance/4-ways-to-add-images-to-github-readme-1-bonus-method#:~:text=Markdown%20itself%20doesn't%20offer,Markdown%20file%20to%20achieve%20this.&text=In%20this%20example%2C%20the%20width,to%20maintain%20the%20aspect%20ratio.)
+
 ____
 
