@@ -28,6 +28,11 @@ ____
 
 Right click on asdf2 folder at top of folder tree in Package Explorer.
 
+Figure 2 shows the menu which appears.
+
+![image](https://github.com/user-attachments/assets/0ca00e43-7378-4076-a132-b81e0f956623)
+
+Figure 2 Package Explorer > Right click on `asdf` > Menu > Show In
 ## References
 
 [ChatGPT](https://chatgpt.com/)
