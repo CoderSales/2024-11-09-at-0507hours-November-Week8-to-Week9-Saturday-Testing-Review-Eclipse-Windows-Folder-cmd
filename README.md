@@ -30,9 +30,25 @@ Right click on asdf2 folder at top of folder tree in Package Explorer.
 
 Figure 2 shows the menu which appears.
 
+____
+
 ![image](https://github.com/user-attachments/assets/0ca00e43-7378-4076-a132-b81e0f956623)
 
 Figure 2 Package Explorer > Right click on `asdf` > Menu > Show In
+
+____
+
 ## References
 
+### Process
+
 [ChatGPT](https://chatgpt.com/)
+
+____
+
+### GitHub and Markdwon
+
+[how to specify the dimensions of a README markdown image - Google Search](https://www.google.com/search?q=how+to+specify+the+dimensions+of+a+README+markdown+image&oq=how+to+specify+the+dimensions+of+a+README+markdown+image&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRiPAtIBCTI1MTAyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
+
+____
+
